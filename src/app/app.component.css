@@ -1,0 +1,26 @@
+.spacer {
+    flex: 1 1 auto;
+  }
+.btn-menu{
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+.main-page{
+  width: 100%;
+  height: 100%;
+  background-color: rgb(23, 65, 88);
+}
+.toolbar{
+  background-color: rgb(23, 65, 88);
+  border-bottom: 5px solid rgb(29, 105, 150);
+}
+.sidenav{
+  background-color: rgb(29, 105, 150);
+}
+.color-menu:hover{
+background-color: rgba(196, 50, 50, 0.452);
+}
+.btn-color{
+  background-color: rgb(23, 65, 88);
+}
